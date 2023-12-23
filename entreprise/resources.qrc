@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>file cover - 1.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>bienvenue-rim.png</file>
+    </qresource>
+</RCC>
