@@ -7,7 +7,13 @@
 
 #  what's Audit Master ⚡
 A financial audit software programmed with C++ and Qt could be a powerful tool for businesses. This software would be designed to streamline and automate the process of financial auditing. It would provide features for planning, executing, and managing audits, as well as analyzing and reporting on audit results.
+<p align="left">
+  <img src="https://github.com/rayen-feb/Audit_Master/assets/131598929/ea93bc7f-ce07-480b-9a5f-5d2c6e59c505" alt="audit master "></p>!
+  <p align="center">
+  <img src="Screenshot 2023-12-13 110723](https://github.com/rayen-feb/Audit_Master/assets/131598929/6c834237-cad7-4033-92dc-de3875f369fa" alt="audit master "></p>!
+
 ## Auditor Management 🕵️‍♂️
+
 
 This module allows you to manage auditors. You can add, modify, and delete auditor profiles. Each profile contains information about the auditor's qualifications, experience, and areas of expertise. 
 
