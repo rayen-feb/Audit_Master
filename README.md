@@ -38,10 +38,10 @@ This module allows you to manage standards. You can add, modify, and delete fina
 
 This module allows you to generate audit reports. After an audit is completed, you can create a detailed report that includes the audit findings, recommendations, and plans of action. These reports can be exported in various formats for easy sharing and presentation.
 ## how to use 
-1)open the file "build attelier connection ".
-2)run the make_file  .
-3)open atelier connection.cpp  and set the password and the username  with your  MySql  database  pass and username.
-4) to open Audit master    enter the user name  "admin"  and the password "admin" in the main window.
+- 1)open the file "build attelier connection ".
+ - 2)run the make_file  .
+ - 3)open atelier connection.cpp  and set the password and the username  with your  MySql  database  pass and username.
+ - 4) to open Audit master    enter the user name  "admin"  and the password "admin" in the main window.
 ## Additional Features 🌟
 
 - **QR Code Generation**:  This software can generate QR codes for added companies. These QR codes can be scanned to quickly access the company's profile and audit reports.
