@@ -9,10 +9,11 @@
 A financial audit software programmed with C++ and Qt could be a powerful tool for businesses. This software would be designed to streamline and automate the process of financial auditing. It would provide features for planning, executing, and managing audits, as well as analyzing and reporting on audit results.
 
 
-<p align="left">
-  <img src="https://github.com/rayen-feb/Audit_Master/assets/131598929/b5d96e08-0c05-4edc-b0ce-7a25a67c8c97" alt="audit master " width="300" height="200"></p>!
- <p align="right">
-  <img src="https://github.com/rayen-feb/Audit_Master/assets/131598929/7580aee2-5dae-46b9-b710-3cc2d0b56521" alt="audit master " width="300" height="200"></p>!
+<p align="center">
+  <img src="https://github.com/rayen-feb/Audit_Master/assets/131598929/b5d96e08-0c05-4edc-b0ce-7a25a67c8c97" alt="audit master " width="400" height="200"></p>!
+ <p align="center">
+  <img src="https://github.com/rayen-feb/Audit_Master/assets/131598929/7580aee2-5dae-46b9-b710-3cc2d0b56521" alt="audit master " width="
+    400" height="200"></p>!
  
   
 
