@@ -2,8 +2,8 @@
 
 <p align="center"><img src="https://github.com/rayen-feb/Audit_Master/assets/131598929/ba5fdee1-fa30-4c7e-bfb6-3130d27cf01b" alt="audit master "></p>
 <div align="center">
-# Audit Master
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E58F7&background=9B460900&center=true&random=false&width=435&lines=Audit+Master+;A+financial+audit+software;+programmed+with+C%2B%2B+" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71E1E&background=9B460900&center=true&random=false&width=435&lines=Audit+Master+;A+financial+audit+software;+programmed+with+C%2B%2B+" alt="Typing SVG" /></a>
 
 #  ⚡ what's Audit Master ⚡
 A financial audit software programmed with C++ and Qt could be a powerful tool for businesses. This software would be designed to streamline and automate the process of financial auditing. It would provide features for planning, executing, and managing audits, as well as analyzing and reporting on audit results.
