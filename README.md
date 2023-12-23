@@ -30,7 +30,7 @@ This module allows you to manage auditors. You can add, modify, and delete audit
   <img src=" https://github.com/rayen-feb/Audit_Master/assets/131598929/7dd35d11-7a8d-42dd-a9fd-a758f4802d7f " alt="audit master " width="400" height="250"></p>!
   
 ## Standards Management 📏
-![Screenshot 2023-12-13 110928](https://github.com/rayen-feb/Audit_Master/assets/131598929/e3f197fd-ca17-4f5c-a8b8-741b87ddcbe1)
+
 
 This module allows you to manage standards. You can add, modify, and delete financial auditing standards. Each standard contains information about the auditing procedures, guidelines, and best practices that should be followed.
 
@@ -40,6 +40,9 @@ This module allows you to manage standards. You can add, modify, and delete fina
 
 
 This module allows you to generate audit reports. After an audit is completed, you can create a detailed report that includes the audit findings, recommendations, and plans of action. These reports can be exported in various formats for easy sharing and presentation.
+
+## how to install 
+you have to install the 
 
 
 
