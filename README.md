@@ -36,14 +36,9 @@ This module allows you to manage standards. You can add, modify, and delete fina
 
 
 ## Report Management 📄
-![Screenshot 2023-12-13 111053](https://github.com/rayen-feb/Audit_Master/assets/131598929/a6d03a9d-43eb-46e8-9c85-abc7689f9119)
 
 
 This module allows you to generate audit reports. After an audit is completed, you can create a detailed report that includes the audit findings, recommendations, and plans of action. These reports can be exported in various formats for easy sharing and presentation.
-
-## how to install 
-you have to install the 
-
 
 
 ## Additional Features 🌟
