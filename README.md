@@ -10,10 +10,10 @@ A financial audit software programmed with C++ and Qt could be a powerful tool f
 
 
 <p align="center">
-  <img src="https://github.com/rayen-feb/Audit_Master/assets/131598929/b5d96e08-0c05-4edc-b0ce-7a25a67c8c97" alt="audit master " width="400" height="200"></p>!
+  <img src="https://github.com/rayen-feb/Audit_Master/assets/131598929/b5d96e08-0c05-4edc-b0ce-7a25a67c8c97" alt="audit master " width="400" height="250"></p>!
  <p align="center">
   <img src="https://github.com/rayen-feb/Audit_Master/assets/131598929/7580aee2-5dae-46b9-b710-3cc2d0b56521" alt="audit master " width="
-    400" height="200"></p>!
+    400" height="250"></p>!
  
   
 
