@@ -20,16 +20,21 @@ A financial audit software programmed with C++ and Qt could be a powerful tool f
 ## Auditor Management 🕵️‍♂️
 
 
+
 This module allows you to manage auditors. You can add, modify, and delete auditor profiles. Each profile contains information about the auditor's qualifications, experience, and areas of expertise. 
 
+<p align="center">
+  <img src=" https://github.com/rayen-feb/Audit_Master/assets/131598929/7dd35d11-7a8d-42dd-a9fd-a758f4802d7f " alt="audit master " width="400" height="250"></p>!
 ## Standards Management 📏
 
 This module allows you to manage standards. You can add, modify, and delete financial auditing standards. Each standard contains information about the auditing procedures, guidelines, and best practices that should be followed.
 
 
 ## Report Management 📄
+![Screenshot 2023-12-13 110928](https://github.com/rayen-feb/Audit_Master/assets/131598929/19586d22-1cce-40e5-a467-a5d5b3b12e94)
 
 This module allows you to generate audit reports. After an audit is completed, you can create a detailed report that includes the audit findings, recommendations, and plans of action. These reports can be exported in various formats for easy sharing and presentation.
+
 
 ## Company Management 🏢
 
