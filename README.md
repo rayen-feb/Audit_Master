@@ -22,8 +22,6 @@ This module allows you to manage companies. You can add, modify, and delete comp
 
 ## Auditor Management 🕵️‍♂️
 
-
-
 This module allows you to manage auditors. You can add, modify, and delete auditor profiles. Each profile contains information about the auditor's qualifications, experience, and areas of expertise. 
 
 <p align="center">
