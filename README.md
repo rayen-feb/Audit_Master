@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F71E1E&background=9B460900&center=true&random=false&width=435&lines=Audit+Master+;A+financial+audit+software;+programmed+with+C%2B%2B+" alt="Typing SVG" /></a>
 
 #  what's Audit Master ⚡
-A financial audit software programmed with C++ and Qt could be a powerful tool for businesses. This software would be designed to streamline and automate the process of financial auditing. It would provide features for planning, executing, and managing audits, as well as analyzing and reporting on audit results.
+A financial audit software programmed with C++ and Qt could be a powerful tool for businesses. This software would be designed to streamline and automate the process of financial auditing. It would provide features for planning, executing, and managing audits, as well as analyzing and reporting on audit results.(it s an ESPRIT project)
 
 ## Company Management 🏢
 
